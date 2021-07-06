@@ -1,3 +1,5 @@
+![Hextilemap](./hextilemap.png)
+
 * [Demo](https://alexnd.github.io/phaser-hextilemap/map-hex.html)
 
 * [Source](https://github.com/alexnd/phaser-hextilemap/)
