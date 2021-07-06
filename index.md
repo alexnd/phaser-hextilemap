@@ -1,5 +1,5 @@
 
-# Demo scene of tilemap with hexagonal cells based on [Phaser](https://phaser.io/)
+# Demo scene of hexagonal tilemap on [Phaser](https://phaser.io/)
 
 * [Demo](https://alexnd.github.io/phaser-hextilemap/map-hex.html)
 
